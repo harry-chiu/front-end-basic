@@ -26,3 +26,5 @@
   - [我知道你懂 hoisting，可是你了解到多深？](https://github.com/aszx87410/blog/issues/34)
 - preventDefault / stopPropagation / 事件冒泡
   - [[筆記][JavaScript]所謂的「停止事件」到底是怎麼一回事？](https://ithelp.ithome.com.tw/articles/10198999)
+- call by value / call by reference
+  - [深入探討 JavaScript 中的參數傳遞：call by value 還是 reference？](https://github.com/aszx87410/blog/issues/30)
