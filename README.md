@@ -30,3 +30,5 @@
   - [深入探討 JavaScript 中的參數傳遞：call by value 還是 reference？](https://github.com/aszx87410/blog/issues/30)
 - Event Bubbling / Event Capturing / Event Delegation
   - [[教學] 瀏覽器事件：Event Bubbling, Event Capturing 及 Event Delegation](https://shubo.io/event-bubbling-event-capturing-event-delegation/)
+- event.target / event.currentTarget
+  - [深入理解e.target与e.currentTarget](https://juejin.im/post/59f16ffaf265da43085d4108)
