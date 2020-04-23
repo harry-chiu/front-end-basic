@@ -32,3 +32,8 @@
   - [[教學] 瀏覽器事件：Event Bubbling, Event Capturing 及 Event Delegation](https://shubo.io/event-bubbling-event-capturing-event-delegation/)
 - event.target / event.currentTarget
   - [深入理解e.target与e.currentTarget](https://juejin.im/post/59f16ffaf265da43085d4108)
+- this
+  - [JavaScript This 系列文：this 與物件的關係](https://wcc723.github.io/javascript/2019/03/18/JS-THIS/)
+- bind / apply / call
+  - [一次搞懂前端面試最愛問的 apply、bind、call](https://medium.com/schaoss-blog/%E4%B8%80%E6%AC%A1%E6%90%9E%E6%87%82%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%A9%A6%E6%9C%80%E6%84%9B%E5%95%8F%E7%9A%84-apply-bind-call-708f57518776)
+  - [JavaScript - call，apply，bind](https://ithelp.ithome.com.tw/articles/10195896)
