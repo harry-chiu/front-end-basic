@@ -28,8 +28,14 @@
   - [Grid Garden](https://cssgridgarden.com/)
   
 ## JavaScript
+- scope
+  - [你懂 JavaScript 嗎？#11 語彙範疇（Lexical Scope）](https://cythilya.github.io/2018/10/18/lexical-scope/)
+  - [你懂 JavaScript 嗎？#12 函式範疇與區塊範疇（Function vs Block Scope）](https://cythilya.github.io/2018/10/19/function-vs-block-scope/)
+- closure
+  - [所有的函式都是閉包：談 JS 中的作用域與 Closure #35](https://github.com/aszx87410/blog/issues/35)
 - Hoisting
   - [我知道你懂 hoisting，可是你了解到多深？](https://github.com/aszx87410/blog/issues/34)
+  - [你懂 JavaScript 嗎？#13 拉升（Hoisting）](https://cythilya.github.io/2018/10/20/hoisting/)
 - preventDefault / stopPropagation / Event Bubbling
   - [[筆記][JavaScript]所謂的「停止事件」到底是怎麼一回事？](https://ithelp.ithome.com.tw/articles/10198999)
 - call by value / call by reference
@@ -39,7 +45,16 @@
 - event.target / event.currentTarget
   - [深入理解e.target与e.currentTarget](https://juejin.im/post/59f16ffaf265da43085d4108)
 - this
+  - [淺談 JavaScript 頭號難題 this：絕對不完整，但保證好懂 #39](https://github.com/aszx87410/blog/issues/39)
+  - [this 的值到底是什么？一次说清楚](https://zhuanlan.zhihu.com/p/23804247)
   - [JavaScript This 系列文：this 與物件的關係](https://wcc723.github.io/javascript/2019/03/18/JS-THIS/)
 - bind / apply / call
   - [一次搞懂前端面試最愛問的 apply、bind、call](https://medium.com/schaoss-blog/%E4%B8%80%E6%AC%A1%E6%90%9E%E6%87%82%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%A9%A6%E6%9C%80%E6%84%9B%E5%95%8F%E7%9A%84-apply-bind-call-708f57518776)
   - [JavaScript - call，apply，bind](https://ithelp.ithome.com.tw/articles/10195896)
+- callback
+  - [你懂 JavaScript 嗎？#23 Callback](https://cythilya.github.io/2018/10/30/callback/)
+  - [重新認識 JavaScript: Day 18 Callback Function 與 IIFE](https://ithelp.ithome.com.tw/articles/10192739)
+- Promise
+  - [JavaScript ES6 Promise](https://wcc723.github.io/life/2017/05/25/promise/)
+- async / await
+  - [鐵人賽：JavaScript Await 與 Async](https://wcc723.github.io/javascript/2017/12/30/javascript-async-await/)
