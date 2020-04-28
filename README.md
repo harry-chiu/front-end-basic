@@ -67,3 +67,8 @@
   - [告別 JavaScript 的 Promise！迎接 Async/Await 的到來](https://jigsawye.com/2016/04/18/understanding-javascript-async-await/)
 - webpack
   - [Webpack Tutorial 繁體中文 Gitbook](https://neighborhood999.github.io/webpack-tutorial-gitbook/)
+
+## 演算法
+- 基本演算法
+  - [一起用 JavaScript 來複習經典排序法吧！](https://blog.techbridge.cc/2017/08/19/sotring-algorithm/)
+  - [初學者學演算法｜排序法進階：合併排序法](https://medium.com/appworks-school/%E5%88%9D%E5%AD%B8%E8%80%85%E5%AD%B8%E6%BC%94%E7%AE%97%E6%B3%95-%E6%8E%92%E5%BA%8F%E6%B3%95%E9%80%B2%E9%9A%8E-%E5%90%88%E4%BD%B5%E6%8E%92%E5%BA%8F%E6%B3%95-6252651c6f7e)
