@@ -28,6 +28,8 @@
   - [Grid Garden](https://cssgridgarden.com/)
   
 ## JavaScript
+- 套件整理
+  - [在開始寫Code之前？](https://medium.com/i-am-mike/%E5%9C%A8%E9%96%8B%E5%A7%8B%E5%AF%ABcode%E5%89%8D%E7%9A%84%E9%81%B8%E6%93%87-662b3a2debe8)
 - scope
   - [你懂 JavaScript 嗎？#11 語彙範疇（Lexical Scope）](https://cythilya.github.io/2018/10/18/lexical-scope/)
   - [你懂 JavaScript 嗎？#12 函式範疇與區塊範疇（Function vs Block Scope）](https://cythilya.github.io/2018/10/19/function-vs-block-scope/)
