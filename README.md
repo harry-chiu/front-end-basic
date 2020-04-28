@@ -33,6 +33,8 @@
   - [你懂 JavaScript 嗎？#12 函式範疇與區塊範疇（Function vs Block Scope）](https://cythilya.github.io/2018/10/19/function-vs-block-scope/)
 - closure
   - [所有的函式都是閉包：談 JS 中的作用域與 Closure #35](https://github.com/aszx87410/blog/issues/35)
+- prototype
+  - [該來理解 JavaScript 的原型鍊了 #18](https://github.com/aszx87410/blog/issues/18)
 - Hoisting
   - [我知道你懂 hoisting，可是你了解到多深？](https://github.com/aszx87410/blog/issues/34)
   - [你懂 JavaScript 嗎？#13 拉升（Hoisting）](https://cythilya.github.io/2018/10/20/hoisting/)
@@ -51,6 +53,8 @@
 - bind / apply / call
   - [一次搞懂前端面試最愛問的 apply、bind、call](https://medium.com/schaoss-blog/%E4%B8%80%E6%AC%A1%E6%90%9E%E6%87%82%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%A9%A6%E6%9C%80%E6%84%9B%E5%95%8F%E7%9A%84-apply-bind-call-708f57518776)
   - [JavaScript - call，apply，bind](https://ithelp.ithome.com.tw/articles/10195896)
+- new
+  - [JS 的 new 到底是干什么的？](https://zhuanlan.zhihu.com/p/23987456?refer=study-fe)
 - callback
   - [你懂 JavaScript 嗎？#23 Callback](https://cythilya.github.io/2018/10/30/callback/)
   - [重新認識 JavaScript: Day 18 Callback Function 與 IIFE](https://ithelp.ithome.com.tw/articles/10192739)
