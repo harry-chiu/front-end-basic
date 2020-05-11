@@ -8,6 +8,8 @@
 
 ## Browsers
 - [在瀏覽器第一次渲染之前](http://otischou.tw/2018/01/11/resouce-prioritization-in-browser.html)
+- [Web 資訊安全（Security）簡明入門教學指南](https://blog.techbridge.cc/2016/11/05/web-security-tutorial-introduction/)
+- [讓我們來談談 CSRF](https://blog.techbridge.cc/2017/02/25/csrf-introduction/)
 
 ## HTML
 - 效能優化
